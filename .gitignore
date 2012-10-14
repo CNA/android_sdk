@@ -17,3 +17,5 @@ eclipse/features/com.android.ide.eclipse.*/*.zip
 /eclipse/v[0-9-]*-[0-9]*
 /eclipse/v[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]
 /status-output
+
+.DS_Store
